@@ -1,0 +1,9 @@
+﻿  Vida.cpp
+D:\VS\VidaDos\Vida.cpp(55,36): warning C4267: '-=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\VS\VidaDos\Vida.cpp(59,35): warning C4267: '-=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\VS\VidaDos\Vida.cpp(121,17): warning C4244: 'inicializando': conversión de '_Rep' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  VidaDos.vcxproj -> D:\VS\VidaDos\x64\Debug\VidaDos.exe
